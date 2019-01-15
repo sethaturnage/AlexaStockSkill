@@ -1,0 +1,11 @@
+C:\Users\speco\source\repos\StockTickerLambda\StockTickerLambda\obj\Release\netcoreapp2.1\rhel.7.2-x64\StockTickerLambda.csprojAssemblyReference.cache
+C:\Users\speco\source\repos\StockTickerLambda\StockTickerLambda\obj\Release\netcoreapp2.1\rhel.7.2-x64\StockTickerLambda.csproj.CoreCompileInputs.cache
+C:\Users\speco\source\repos\StockTickerLambda\StockTickerLambda\obj\Release\netcoreapp2.1\rhel.7.2-x64\StockTickerLambda.AssemblyInfoInputs.cache
+C:\Users\speco\source\repos\StockTickerLambda\StockTickerLambda\obj\Release\netcoreapp2.1\rhel.7.2-x64\StockTickerLambda.AssemblyInfo.cs
+C:\Users\speco\source\repos\StockTickerLambda\StockTickerLambda\bin\Release\netcoreapp2.1\rhel.7.2-x64\StockTickerLambda.deps.json
+C:\Users\speco\source\repos\StockTickerLambda\StockTickerLambda\bin\Release\netcoreapp2.1\rhel.7.2-x64\StockTickerLambda.runtimeconfig.json
+C:\Users\speco\source\repos\StockTickerLambda\StockTickerLambda\bin\Release\netcoreapp2.1\rhel.7.2-x64\StockTickerLambda.runtimeconfig.dev.json
+C:\Users\speco\source\repos\StockTickerLambda\StockTickerLambda\bin\Release\netcoreapp2.1\rhel.7.2-x64\StockTickerLambda.dll
+C:\Users\speco\source\repos\StockTickerLambda\StockTickerLambda\bin\Release\netcoreapp2.1\rhel.7.2-x64\StockTickerLambda.pdb
+C:\Users\speco\source\repos\StockTickerLambda\StockTickerLambda\obj\Release\netcoreapp2.1\rhel.7.2-x64\StockTickerLambda.dll
+C:\Users\speco\source\repos\StockTickerLambda\StockTickerLambda\obj\Release\netcoreapp2.1\rhel.7.2-x64\StockTickerLambda.pdb
